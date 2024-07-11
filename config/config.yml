@@ -1,0 +1,10 @@
+debug:
+  book_path: "/home/afomin/projects/mj/n/Im_Westen_nichts_Neues.epub"
+libretranslate:
+  url: '127.0.0.1'
+  port: '3862'
+  orig_lang: 'de'
+  target_lang: 'ru'
+  alternatives: 3 
+
+
