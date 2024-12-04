@@ -5,6 +5,8 @@ libretranslate:
   port: '3862'
   orig_lang: 'de'
   target_lang: 'ru'
-  alternatives: 3 
+  alternatives: 3
+ui:
+  font_size: 14
 
 

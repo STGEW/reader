@@ -1,0 +1,2 @@
+libretranslate
+numpy<2

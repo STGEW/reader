@@ -1,0 +1,6 @@
+PySide6
+langchain
+langchain_community
+langchain_core
+ebooklib
+beautifulsoup4
